@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
-import { LobbyComponent } from './home/lobby.component';
-import { GateComponent } from './home/gate.component';
+import { LobbyComponent } from './lobby/lobby.component';
+import { GateComponent } from './gate/gate.component';
 
 const routes: Routes = [
   {
