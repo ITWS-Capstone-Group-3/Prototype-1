@@ -7,7 +7,6 @@ import {AppComponent} from './app.component';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {MatNativeDateModule} from '@angular/material/core';
 import {HttpClientModule} from '@angular/common/http';
-import { HomeComponent } from './home/home.component';
 import { CommonModule } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 
